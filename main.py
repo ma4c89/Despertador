@@ -101,4 +101,3 @@ atualizar_relogio()
 
 root.mainloop()
 
-# Aprendendo a criar um despertador em Python usando a biblioteca tkinter! ⏰💻 #python #despertador #programação #bibliotecatkinter #tecnologia
