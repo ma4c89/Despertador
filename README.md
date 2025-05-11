@@ -19,4 +19,4 @@ Este código é **especial para mim**, porque tudo começou quando desenvolvi um
 - Tkinter
 - pytz (para controle de fuso horário)
 - datetime
-
+- Desenvolvido localmente e também testado com sucesso no Replit
