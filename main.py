@@ -63,6 +63,7 @@ root = tk.Tk()
 root.title("Despertador do Wagner")
 root.geometry("600x300")
 root.configure(bg="white")
+root.resizable(False, False)
 
 brasilia = timezone('America/Sao_Paulo')
 
